@@ -1,3 +1,25 @@
+# 效果展示
+
+[解决a标签警告问题方法](https://blog.csdn.net/ZWQ0325/article/details/88538635)
+
+* [github链接](https://github.com/jk2020214154/React_Calculator_App) 
+* [acgit链接](https://git.acwing.com/jk20214154/react_calculator_app)
+
+
+> 功能实现：
+> 实现简单计算器的加减乘除清空删除等操作,以及用户的登录、注册、登出功能(由于能力有限,未部署到云端进行测试),故大体展示一下本地的运行结果
+
+![QQ截图20230105221323.png](https://cdn.acwing.com/media/article/image/2023/01/05/85276_55aef5518d-QQ截图20230105221323.png) 
+
+![QQ截图20230105221247.png](https://cdn.acwing.com/media/article/image/2023/01/05/85276_5b377fdd8d-QQ截图20230105221247.png) 
+
+![QQ截图20230105221301.png](https://cdn.acwing.com/media/article/image/2023/01/05/85276_5e6a36fb8d-QQ截图20230105221301.png) 
+
+![QQ截图20230105221216.png](https://cdn.acwing.com/media/article/image/2023/01/05/85276_61a703dc8d-QQ截图20230105221216.png) 
+
+![QQ截图20230105221311.png](https://cdn.acwing.com/media/article/image/2023/01/05/85276_36ffa1c08d-QQ截图20230105221311.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
